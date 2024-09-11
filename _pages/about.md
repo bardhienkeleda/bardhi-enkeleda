@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Enkeleda Bardhi is a Cybersecurity PostDoc at DIAG, Sapienza University of Rome, working with [Prof. Silvia Bonomi](https://scholar.google.com/citations?view_op=list_works&hl=it&hl=it&user=s-szb04AAAAJ&sortby=pubdate) and [Prof. Riccardo Lazzeretti](https://scholar.google.com/citations?user=mBq2JNsAAAAJ&hl=it&oi=ao), while being a collaborator of [SPRITZ Research Group](https://spritz.math.unipd.it/) at University of Padua. During her Ph.D. she was with [Purdue University](https://www.purdue.edu/) and [Delft University of Technology](https://www.tudelft.nl/en/).
+Her main research interest include the Network Security and Privacy, with a particular focus on the emerging and future network architectures -- i.e., Named-Data Networking (NDN) -- and Programmable Networks. Furthermore, she is particularly interested into applying Machine Learning (ML) and Artificial Intelligence (AI) techniques for both the attacking and defence point of view. Lastly, she is also interested into the security and privacy of the ML.
+
 
 A data-driven personal website
 ======
