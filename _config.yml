@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "About & News"
 title_separator          : "-"
 name                     : &name "Enkeleda Bardhi"
 description              : &description "personal description"
