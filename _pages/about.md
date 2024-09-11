@@ -13,7 +13,7 @@ Her main research interest include the Network Security and Privacy, with a part
 
 News
 ======
-- August 2024 - Confirmed as Programm Commitee Member for AAAI 2025, after having served for the same position for AAAI2024 and AAAI 2023! :fire:
+- August 2024 - Confirmed as Programm Commitee Member for AAAI 2025, after having served for the same position for AAAI2024 and AAAI 2023! [:fire:]
 
 Getting started
 ======
