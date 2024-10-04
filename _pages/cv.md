@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Postdoctoral Researcher in Computer Science, Delft University of Technology
 * Ph.D in Computer Science Engineering, Sapienza University of Rome, 2024
 * M.S. in ICT for Internet and Multimedia, University of Padua, 2020
 * B.S. in Telecommunication Engineering, Polytecnic University of Tirana, 2017
